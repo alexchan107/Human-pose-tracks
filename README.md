@@ -27,7 +27,7 @@ This project is licensed under the MIT License.
 
 # Acknowledgements
 
-## Python
-## OpenCV
-## NumPy
-## PyAutoGUI
+Python
+OpenCV
+NumPy
+PyAutoGUI
