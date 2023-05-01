@@ -6,7 +6,7 @@ This program is designed to detect enemies on your monitor and assist with aimin
 # Prerequisites
 Before using this program, please ensure you have the following installed:
 
-Python 3.8.10 (python-3.8.10-amd64.exe)
+Python 3.8.10
 
 # Installation
 Clone this repository or download the source code.
