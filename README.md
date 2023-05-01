@@ -24,10 +24,3 @@ If you have any suggestions or improvements, feel free to submit a pull request 
 
 # License
 This project is licensed under the MIT License.
-
-# Acknowledgements
-
-1, Python
-2, OpenCV
-3, NumPy
-4, PyAutoGUI
